@@ -1,0 +1,15 @@
+.taylor-swift-image {
+  height:200px;
+}
+
+body{
+  background-color: pink!important;
+}
+
+.picture{
+  display: inline-block;
+  position:fixed;
+  top: 100px;
+  right: 25vw;
+
+}
